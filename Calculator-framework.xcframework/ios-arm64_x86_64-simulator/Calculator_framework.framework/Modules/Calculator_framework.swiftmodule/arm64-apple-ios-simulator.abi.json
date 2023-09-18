@@ -1,0 +1,89 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Calculator_framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Calculator",
+        "printedName": "Calculator",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Calculator",
+                "printedName": "Calculator_framework.Calculator",
+                "usr": "s:20Calculator_framework0A0C"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:20Calculator_framework0A0CACycfc",
+            "mangledName": "$s20Calculator_framework0A0CACycfc",
+            "moduleName": "Calculator_framework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "multitply",
+            "printedName": "multitply(_:with:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:20Calculator_framework0A0C9multitply_4withS2i_SitF",
+            "mangledName": "$s20Calculator_framework0A0C9multitply_4withS2i_SitF",
+            "moduleName": "Calculator_framework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:20Calculator_framework0A0C",
+        "mangledName": "$s20Calculator_framework0A0C",
+        "moduleName": "Calculator_framework",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}
