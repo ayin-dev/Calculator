@@ -1,6 +1,10 @@
-public struct Calculator {
-    public private(set) var text = "Hello, World!"
+import Foundation
 
-    public init() {
+public class Calculator {
+
+    public init() {}
+
+    public func multitply(_ valueX: Int, with valueY: Int) -> Int {
+        return valueX * valueY
     }
 }
