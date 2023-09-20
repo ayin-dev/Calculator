@@ -184,7 +184,14 @@
     {
       "filePath": "\/Users\/ayin\/work\/test\/swift\/Logic_Framework\/Logic_Framework\/Logic.swift",
       "kind": "IntegerLiteral",
-      "offset": 463,
+      "offset": 208,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/ayin\/work\/test\/swift\/Logic_Framework\/Logic_Framework\/Logic.swift",
+      "kind": "IntegerLiteral",
+      "offset": 467,
       "length": 1,
       "value": "0"
     }
