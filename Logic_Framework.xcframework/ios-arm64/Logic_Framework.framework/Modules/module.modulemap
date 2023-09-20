@@ -1,0 +1,11 @@
+framework module Logic_Framework {
+  umbrella header "Logic_Framework.h"
+
+  export *
+  module * { export * }
+}
+
+module Logic_Framework.Swift {
+  header "Logic_Framework-Swift.h"
+  requires objc
+}
