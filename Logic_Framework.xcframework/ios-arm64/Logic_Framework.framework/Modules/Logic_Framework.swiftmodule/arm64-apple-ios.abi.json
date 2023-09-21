@@ -193,7 +193,7 @@
       "kind": "StringLiteral",
       "offset": 233,
       "length": 16,
-      "value": "\"BasicLog 1.0.2\""
+      "value": "\"BasicLog 1.0.3\""
     },
     {
       "filePath": "\/Users\/ayin\/work\/test\/swift\/Logic_Framework\/Logic_Framework\/Logic.swift",
@@ -228,7 +228,7 @@
       "kind": "StringLiteral",
       "offset": 417,
       "length": 16,
-      "value": "\"BasicLog 1.0.2\""
+      "value": "\"BasicLog 1.0.3\""
     },
     {
       "filePath": "\/Users\/ayin\/work\/test\/swift\/Logic_Framework\/Logic_Framework\/Logic.swift",
