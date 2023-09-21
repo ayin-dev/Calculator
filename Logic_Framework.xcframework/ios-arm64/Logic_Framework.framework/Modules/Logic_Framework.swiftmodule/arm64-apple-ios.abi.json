@@ -15,6 +15,13 @@
         ]
       },
       {
+        "kind": "Import",
+        "name": "Logging",
+        "printedName": "Logging",
+        "declKind": "Import",
+        "moduleName": "Logic_Framework"
+      },
+      {
         "kind": "TypeDecl",
         "name": "BasicLogic",
         "printedName": "BasicLogic",
@@ -183,15 +190,71 @@
   "ConstValues": [
     {
       "filePath": "\/Users\/ayin\/work\/test\/swift\/Logic_Framework\/Logic_Framework\/Logic.swift",
+      "kind": "StringLiteral",
+      "offset": 233,
+      "length": 10,
+      "value": "\"BasicLog\""
+    },
+    {
+      "filePath": "\/Users\/ayin\/work\/test\/swift\/Logic_Framework\/Logic_Framework\/Logic.swift",
+      "kind": "StringLiteral",
+      "offset": 265,
+      "length": 17,
+      "value": "\"Add \""
+    },
+    {
+      "filePath": "\/Users\/ayin\/work\/test\/swift\/Logic_Framework\/Logic_Framework\/Logic.swift",
+      "kind": "StringLiteral",
+      "offset": 275,
+      "length": 1,
+      "value": "\"+\""
+    },
+    {
+      "filePath": "\/Users\/ayin\/work\/test\/swift\/Logic_Framework\/Logic_Framework\/Logic.swift",
+      "kind": "StringLiteral",
+      "offset": 281,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ayin\/work\/test\/swift\/Logic_Framework\/Logic_Framework\/Logic.swift",
       "kind": "IntegerLiteral",
-      "offset": 208,
+      "offset": 309,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ayin\/work\/test\/swift\/Logic_Framework\/Logic_Framework\/Logic.swift",
+      "kind": "StringLiteral",
+      "offset": 411,
+      "length": 10,
+      "value": "\"BasicLog\""
+    },
+    {
+      "filePath": "\/Users\/ayin\/work\/test\/swift\/Logic_Framework\/Logic_Framework\/Logic.swift",
+      "kind": "StringLiteral",
+      "offset": 443,
+      "length": 22,
+      "value": "\"Multiple \""
+    },
+    {
+      "filePath": "\/Users\/ayin\/work\/test\/swift\/Logic_Framework\/Logic_Framework\/Logic.swift",
+      "kind": "StringLiteral",
+      "offset": 458,
+      "length": 1,
+      "value": "\"+\""
+    },
+    {
+      "filePath": "\/Users\/ayin\/work\/test\/swift\/Logic_Framework\/Logic_Framework\/Logic.swift",
+      "kind": "StringLiteral",
+      "offset": 464,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ayin\/work\/test\/swift\/Logic_Framework\/Logic_Framework\/Logic.swift",
       "kind": "IntegerLiteral",
-      "offset": 467,
+      "offset": 659,
       "length": 1,
       "value": "0"
     }
